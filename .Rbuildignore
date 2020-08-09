@@ -16,3 +16,4 @@
 ^\.R-version$
 ^hex-stickers$
 ^\.github/workflows$
+^pkgdown$
