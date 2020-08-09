@@ -55,5 +55,3 @@ max_optimizers <- list(
   },
   "Loop-invariant Code Motion" = opt_loop_invariant
 )
-
-
