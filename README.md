@@ -7,8 +7,6 @@
 status](https://www.r-pkg.org/badges/version/rco)](https://CRAN.R-project.org/package=rco)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
-[![Travis build
-status](https://travis-ci.org/jcrodriguez1989/rco.svg?branch=master)](https://travis-ci.org/jcrodriguez1989/rco)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/jcrodriguez1989/rco?branch=master&svg=true)](https://ci.appveyor.com/project/jcrodriguez1989/rco)
 [![Coverage
