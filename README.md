@@ -7,12 +7,12 @@
 status](https://www.r-pkg.org/badges/version/rco)](https://CRAN.R-project.org/package=rco)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/jcrodriguez1989/rco?branch=master&svg=true)](https://ci.appveyor.com/project/jcrodriguez1989/rco)
 [![Coverage
 status](https://codecov.io/gh/jcrodriguez1989/rco/branch/master/graph/badge.svg)](https://codecov.io/github/jcrodriguez1989/rco?branch=master)
 ![R-CMD-check](https://github.com/hinduBale/rco/workflows/R-CMD-check/badge.svg?branch=ghActions)
-![pkgdown](https://github.com/hinduBale/rco/workflows/pkgdown/badge.svg?branch=ghActions)
+<!---[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/jcrodriguez1989/rco?branch=master&svg=true)](https://ci.appveyor.com/project/jcrodriguez1989/rco)--->
+<!---![pkgdown](https://github.com/hinduBale/rco/workflows/pkgdown/badge.svg?branch=ghActions)--->
 <!-- badges: end -->
 
 Make your R code run faster\! `rco` analyzes your code and applies
